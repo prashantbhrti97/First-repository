@@ -1,2 +1,3 @@
 # First-repository
-my first repository
+my first Git repository.
+Author-Prashant bharti
